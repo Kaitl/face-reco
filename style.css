@@ -1,0 +1,43 @@
+body{
+background-color: rgb(177, 228, 255);
+color:rgb(1, 21, 43);
+}
+h1{
+    font-weight: 800;
+    border: 5px solid;
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+#yarg{
+    color: rgb(3, 22, 60);
+    font-size: 25px;
+}
+#camera{
+    height: 300px;
+    width:400px;
+    border-radius: 2px;
+    border: 10px dashed rgb(2, 11, 40);
+}
+#result{
+    height: 300px;
+    width: 400px;
+    border: 10px solid rgb(96, 109, 224);
+}
+#capture{
+    background-color: rgb(20, 53, 220);
+    width:25%;
+    font-size: 25px;
+    color:aliceblue;
+}
+#identify{
+    background-color: rgb(20, 59, 255);
+    width: 25%;
+    font-size:25px;
+    color: aliceblue;
+}
+#object{
+    font-weight:800;
+}
+#accuracy{
+    font-weight: 800;
+}
